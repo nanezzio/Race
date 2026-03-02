@@ -1,0 +1,74 @@
+﻿  AirVehicle.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'AirVehicle.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Boots.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'Boots.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Broom.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'Broom.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Camel.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'Camel.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Centaur.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'Centaur.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Eagle.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'Eagle.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  FastCamel.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'FastCamel.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  GroundVehicle.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'GroundVehicle.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  MagicCarpet.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'MagicCarpet.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Race.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'Race.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\admin\Desktop\Race\RaceLibrary\Race.h(22,27): warning C4251: "Race::participants_": "std::vector<Vehicle *,std::allocator<Vehicle *>>" должен иметь dll-интерфейс для использования клиентами "Race"
+  (compiling source file 'Race.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\vector(442,7):
+       см. объявление "std::vector<Vehicle *,std::allocator<Vehicle *>>"
+  
+  Vehicle.cpp
+C:\Users\admin\Desktop\Race\RaceLibrary\Vehicle.h(21,17): warning C4251: "Vehicle::name_": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Vehicle"
+  (compiling source file 'Vehicle.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Создание кода...
+     Создается библиотека C:\Users\admin\Desktop\Race\RaceLibrary\x64\Debug\RaceLibrary.lib и объект C:\Users\admin\Desktop\Race\RaceLibrary\x64\Debug\RaceLibrary.exp
+  RaceLibrary.vcxproj -> C:\Users\admin\Desktop\Race\RaceLibrary\x64\Debug\RaceLibrary.dll
